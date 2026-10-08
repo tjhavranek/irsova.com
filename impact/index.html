@@ -43,13 +43,20 @@
 </style><link href="../fonts/fonts.css" rel="stylesheet"/><link href="../favicon.svg" rel="icon" type="image/svg+xml"/><link href="../apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><style>
 .data-square-label{overflow-wrap:normal;word-break:normal;hyphens:manual}
 .data-square{position:relative}
-.data-square::after{content:"";position:absolute;inset:-6px}
+.data-square,.data-square svg{min-width:0;min-height:0}.data-grid-items{gap:.85rem;align-items:center}.data-square::after{content:"";position:absolute;left:50%;top:50%;width:max(100%,26px);height:max(100%,26px);transform:translate(-50%,-50%)}.data-square.has-label::after{width:100%;height:100%}
 .data-grid-examples{display:none}
 .role a{white-space:nowrap}
 .journal{font-variant-numeric:lining-nums}
 @media(min-width:761px) and (max-width:1000px){.data-grid-fields{grid-template-columns:repeat(3,minmax(0,1fr));row-gap:1.8rem}.data-grid-field h3{min-height:0}}
-@media(max-width:760px){.data-square-label{display:none}.data-square.has-label{flex-basis:auto;width:auto}.data-grid-items{gap:.8rem;align-items:flex-end}.data-square svg{width:max(24px,calc(var(--square-side)*.8));height:max(24px,calc(var(--square-side)*.8))}.data-grid-examples{display:block;margin:.7rem 0 0;color:var(--grey);font:400 .8rem/1.45 'Source Sans 3',sans-serif}.data-grid-fields{gap:1.1rem}.navigation a{padding-inline:5px;margin-inline:-5px}.email{font-size:13px}}
+@media(max-width:760px){.data-square-label{display:none}.data-square.has-label{flex-basis:auto;width:auto}.data-grid-items{gap:1rem;align-items:center}.data-grid-examples{display:block;margin:.7rem 0 0;color:var(--grey);font:400 .8rem/1.45 'Source Sans 3',sans-serif}.data-grid-fields{gap:1.1rem}.navigation a{padding-inline:5px;margin-inline:-5px}.email{font-size:13px}}
 @media(max-width:390px){.role{font-size:13px}.email{font-size:12.5px}}
+
+.post-list{list-style:none;margin:0;padding:0;max-width:850px}
+.post-list li{margin:0 0 20px;padding-left:18px;border-left:2px solid var(--rule)}
+.post-quote{display:block;color:var(--ink);text-decoration:none;font-size:19px;line-height:1.45}
+.post-quote:hover{color:var(--accent)}
+.post-meta{display:block;margin-top:4px;color:var(--grey);font:14px/1.5 'Source Sans 3',sans-serif}
+@media(max-width:760px){.post-quote{font-size:17px}.post-list li{padding-left:14px}}
 </style><link href="https://tjhavranek.github.io/irsova.com/impact/" rel="canonical"/><link href="https://tjhavranek.github.io/irsova.com/impact/" hreflang="en" rel="alternate"/><link href="https://tjhavranek.github.io/irsova.com/cs/impact/" hreflang="cs" rel="alternate"/><link href="https://tjhavranek.github.io/irsova.com/impact/" hreflang="x-default" rel="alternate"/><meta content="Zuzana Irsova — Impact" property="og:title"/><meta content="Zuzana Irsova is Professor of Economics at Charles University in Prague, Distinguished Senior Lecturer at Anglo-American University and a Research Affiliate at METRICS, Stanford. She specializes in labor economics, international economics and meta-research. Her work brings together estimates from many studies to examine publication bias and the reliability of empirical evidence. Born in Roznava, Slovakia, she lives in Litomysl, Bohemia." property="og:description"/><meta content="https://tjhavranek.github.io/irsova.com/impact/" property="og:url"/><meta content="https://tjhavranek.github.io/irsova.com/photo.jpg" property="og:image"/><meta content="Zuzana Irsova" property="og:image:alt"/><meta content="800" property="og:image:width"/><meta content="1000" property="og:image:height"/><meta content="en_GB" property="og:locale"/><meta content="cs_CZ" property="og:locale:alternate"/><meta content="website" property="og:type"/><meta content="Zuzana Irsova" property="og:site_name"/><meta content="#f8f6f1" name="theme-color"/><script type="application/ld+json">{
   "@context": "https://schema.org",
   "@type": "AboutPage",
