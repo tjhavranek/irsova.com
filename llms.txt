@@ -27,6 +27,13 @@ Name variants: Zuzana Iršová, Zuzana Iršová Havránková, Zuzana Havránkov�
 - Principal investigator, Junior Star METASPUR, Czech Science Foundation (2023–2027). [Source](https://science.fsv.cuni.cz/en/project/spurious-precision-in-meta-analysis-of-social-science-research-metaspur)
 - Co-maintainer, meta-analysis.cz and EasyMeta.org. [Source](https://meta-analysis.cz/about/)
 
+## Tools
+
+- [EasyMeta](https://www.easymeta.org/)
+- [MAD app (research audit by multi-agent debate)](https://tjhavranek.github.io/research-audit-duel-protocol/): Four AI models read a paper in different roles and then cross-examine each other; by Zuzana Irsova and Tomas Havranek.
+- [paper-workshop](https://github.com/tjhavranek/paper-workshop): Claude Code skill: referees from rival traditions argue over a paper, then rebuild it.
+- [mad-research](https://github.com/tjhavranek/mad-research): Claude Code skills: Claude and Codex audit a paper against each other.
+
 ## Pages
 
 - [English home](https://tjhavranek.github.io/irsova.com/)
