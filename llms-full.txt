@@ -107,7 +107,7 @@ Zuzana Iršová Havránková je profesorkou ekonomie na Univerzitě Karlově, p�
 - Our work on foreign direct investment informs publications of the World Bank, IMF, OECD, UNCTAD, WTO and Inter-American Development Bank. [Source](https://meta-analysis.cz/impact/)
 - Our work on daylight saving time is cited by the US Congressional Research Service, European Parliamentary Research Service and UK House of Commons Library. [Source](https://meta-analysis.cz/impact/)
 - Our work on gasoline demand, trade, carbon costs and water demand is cited in Science, PNAS and Nature Water. [Source](https://meta-analysis.cz/impact/)
-- Our student-employment dataset is a worked example in the RoBMA R package; Slichter and Tran reuse eleven of our datasets. [Source](https://meta-analysis.cz/impact/)
+- Others build on our data. David Slichter and Nhan Tran use eleven of our datasets to test whether top journals publish more accurate estimates (Journal of Political Economy Microeconomics, forthcoming). Dimitrije Ruzic reanalyses our capital-labor substitution data in the Review of Economics and Statistics, and Christopher Carroll and coauthors open their paper in the American Economic Journal: Macroeconomics with our figure on habit formation. One of our datasets is a worked example in the RoBMA package for R; another is part of BEAR, a benchmark database for metascience. [Source](https://meta-analysis.cz/impact/)
 
 ## Open data
 
