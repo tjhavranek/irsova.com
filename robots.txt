@@ -37,4 +37,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://tjhavranek.github.io/irsova.com/sitemap.xml
+Sitemap: https://www.irsova.com/sitemap.xml

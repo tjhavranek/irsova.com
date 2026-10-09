@@ -36,12 +36,12 @@ Name variants: Zuzana Iršová, Zuzana Iršová Havránková, Zuzana Havránkov�
 
 ## Pages
 
-- [English home](https://tjhavranek.github.io/irsova.com/)
-- [Research](https://tjhavranek.github.io/irsova.com/research/)
-- [Impact](https://tjhavranek.github.io/irsova.com/impact/)
-- [Česky](https://tjhavranek.github.io/irsova.com/cs/)
-- [Výzkum](https://tjhavranek.github.io/irsova.com/cs/research/)
-- [Ohlas výzkumu](https://tjhavranek.github.io/irsova.com/cs/impact/)
+- [English home](https://www.irsova.com/)
+- [Research](https://www.irsova.com/research/)
+- [Impact](https://www.irsova.com/impact/)
+- [Česky](https://www.irsova.com/cs/)
+- [Výzkum](https://www.irsova.com/cs/research/)
+- [Ohlas výzkumu](https://www.irsova.com/cs/impact/)
 
 ## Identifiers
 
