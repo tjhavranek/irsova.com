@@ -109,11 +109,11 @@ Zuzana Iršová Havránková je profesorkou ekonomie na Univerzitě Karlově, p�
 
 ## Research use
 
-- Our work on intertemporal substitution is used in Thomas Sargent and John Stachurski’s Dynamic Programming and in work by Simon Johnson. Joseph Stiglitz cites our work on capital-labor substitution. [Source](https://meta-analysis.cz/impact/)
-- Our work on foreign direct investment informs publications of the World Bank, IMF, OECD, UNCTAD, WTO and Inter-American Development Bank. [Source](https://meta-analysis.cz/impact/)
-- Our work on daylight saving time is cited by the US Congressional Research Service, European Parliamentary Research Service and UK House of Commons Library. [Source](https://meta-analysis.cz/impact/)
-- Our work on gasoline demand, trade, carbon costs and water demand is cited in Science, PNAS and Nature Water. [Source](https://meta-analysis.cz/impact/)
-- Others build on our data: David Slichter and Nhan Tran use eleven of our datasets in a paper forthcoming in the Journal of Political Economy Microeconomics, and Christopher Carroll and coauthors open their paper in the American Economic Journal: Macroeconomics with our figure on habit formation. [Source](https://meta-analysis.cz/impact/)
+- Her work on intertemporal substitution is used in Thomas Sargent and John Stachurski’s Dynamic Programming and in work by Simon Johnson. Joseph Stiglitz cites her work on capital-labor substitution. [Source](https://meta-analysis.cz/impact/)
+- Her work on foreign direct investment informs publications of the World Bank, IMF, OECD, UNCTAD, WTO and Inter-American Development Bank. [Source](https://meta-analysis.cz/impact/)
+- Her work on daylight saving time is cited by the US Congressional Research Service, European Parliamentary Research Service and UK House of Commons Library. [Source](https://meta-analysis.cz/impact/)
+- Her work on gasoline demand, trade, carbon costs and water demand is cited in Science, PNAS and Nature Water. [Source](https://meta-analysis.cz/impact/)
+- Others build on her data: David Slichter and Nhan Tran use eleven of her datasets in a paper forthcoming in the Journal of Political Economy Microeconomics. [Source](https://meta-analysis.cz/impact/)
 
 ## Open data
 
