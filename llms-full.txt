@@ -110,8 +110,9 @@ Zuzana Iršová Havránková je profesorkou ekonomie na Univerzitě Karlově v P
 ## Research use
 
 - Three Nobel laureates draw on her work: Thomas Sargent uses her results on intertemporal substitution in Dynamic Programming (with John Stachurski), Simon Johnson builds on the same results, and Joseph Stiglitz cites her work on capital-labor substitution. [Source](https://meta-analysis.cz/impact/)
-- Her work on foreign direct investment informs publications of the World Bank, IMF, OECD, UNCTAD, WTO and Inter-American Development Bank. [Source](https://meta-analysis.cz/impact/)
-- Her work on daylight saving time is cited by the US Congressional Research Service, European Parliamentary Research Service and UK House of Commons Library. [Source](https://meta-analysis.cz/impact/)
+- The US Environmental Protection Agency calibrates the intertemporal substitution parameter of SAGE, the model it uses to analyse regulation, from her cross-country meta-analysis, and the US Congressional Research Service relies on her estimates of intertemporal substitution and labor supply in its reviews of tax policy. [Source](https://meta-analysis.cz/impact/) [Source](https://www.epa.gov/system/files/documents/2024-03/sage_model_documentation_2_1_1.pdf) [Source](https://www.congress.gov/crs-product/R48092)
+- Her work on foreign direct investment is used by the World Bank, IMF, OECD, UNCTAD, WTO and Inter-American Development Bank. [Source](https://meta-analysis.cz/impact/)
+- Her work on daylight saving time is cited by the Congressional Research Service, European Parliamentary Research Service and UK House of Commons Library. [Source](https://meta-analysis.cz/impact/)
 - Her work on gasoline demand, trade, carbon costs and water demand is cited in Science, PNAS and Nature Water. [Source](https://meta-analysis.cz/impact/)
 - Others build on her data: David Slichter and Nhan Tran use eleven of her datasets in a paper forthcoming in the Journal of Political Economy Microeconomics. [Source](https://meta-analysis.cz/impact/)
 
