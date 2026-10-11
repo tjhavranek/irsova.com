@@ -109,7 +109,7 @@ Zuzana Iršová Havránková je profesorkou ekonomie na Univerzitě Karlově v P
 
 ## Research use
 
-- Her work on intertemporal substitution is used in Thomas Sargent and John Stachurski’s Dynamic Programming and in work by Simon Johnson. Joseph Stiglitz cites her work on capital-labor substitution. [Source](https://meta-analysis.cz/impact/)
+- Three Nobel laureates draw on her work: Thomas Sargent uses her results on intertemporal substitution in Dynamic Programming (with John Stachurski), Simon Johnson builds on the same results, and Joseph Stiglitz cites her work on capital-labor substitution. [Source](https://meta-analysis.cz/impact/)
 - Her work on foreign direct investment informs publications of the World Bank, IMF, OECD, UNCTAD, WTO and Inter-American Development Bank. [Source](https://meta-analysis.cz/impact/)
 - Her work on daylight saving time is cited by the US Congressional Research Service, European Parliamentary Research Service and UK House of Commons Library. [Source](https://meta-analysis.cz/impact/)
 - Her work on gasoline demand, trade, carbon costs and water demand is cited in Science, PNAS and Nature Water. [Source](https://meta-analysis.cz/impact/)
