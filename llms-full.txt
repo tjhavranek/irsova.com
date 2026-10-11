@@ -109,7 +109,7 @@ Zuzana Iršová Havránková je profesorkou ekonomie na Univerzitě Karlově v P
 
 ## Research use
 
-- Three Nobel laureates draw on her work: Thomas Sargent uses her results on intertemporal substitution in Dynamic Programming (with John Stachurski), Simon Johnson builds on the same results, and Joseph Stiglitz cites her work on capital-labor substitution. [Source](https://meta-analysis.cz/impact/)
+- Three Nobel laureates draw on her work: Thomas Sargent uses her results on intertemporal substitution in Dynamic Programming, Simon Johnson builds on the same results, and Joseph Stiglitz cites her work on capital-labor substitution. [Source](https://meta-analysis.cz/impact/)
 - Charles Jones and Christopher Tonetti take her estimate of capital-labor substitution as the upper bound in Past Automation and Future A.I. [Source](https://meta-analysis.cz/impact/)
 - The US Environmental Protection Agency calibrates the intertemporal substitution parameter of SAGE, the model it uses to analyse regulation, from her cross-country meta-analysis. [Source](https://meta-analysis.cz/impact/) [Source](https://www.epa.gov/system/files/documents/2024-03/sage_model_documentation_2_1_1.pdf)
 - Her work on foreign direct investment is used by the World Bank, IMF, OECD, UNCTAD, WTO and Inter-American Development Bank. [Source](https://meta-analysis.cz/impact/)
