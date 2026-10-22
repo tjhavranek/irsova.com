@@ -110,13 +110,13 @@ Zuzana Iršová Havránková je profesorkou ekonomie na Univerzitě Karlově v P
 
 ## Research use
 
-- Three Nobel laureates draw on her work: Thomas Sargent uses her results on intertemporal substitution in Dynamic Programming, Simon Johnson builds on the same results, and Joseph Stiglitz cites her work on capital-labor substitution. [Source](https://meta-analysis.cz/impact/)
-- Charles Jones and Christopher Tonetti take her estimate of capital-labor substitution as the upper bound in Past Automation and Future A.I. [Source](https://meta-analysis.cz/impact/)
-- The US Environmental Protection Agency calibrates the intertemporal substitution parameter of SAGE, the model it uses to analyse regulation, from her cross-country meta-analysis. [Source](https://meta-analysis.cz/impact/) [Source](https://www.epa.gov/system/files/documents/2024-03/sage_model_documentation_2_1_1.pdf)
+- Three Nobel laureates draw on her work: Thomas Sargent uses her results on intertemporal substitution in Dynamic Programming, Simon Johnson calibrates his model on them in the American Economic Review, and Joseph Stiglitz cites her estimate of capital-labor substitution, which Charles Jones and Christopher Tonetti take as the upper bound in Past Automation and Future A.I. [Source](https://meta-analysis.cz/impact/) [Source](https://doi.org/10.1257/aer.20250064) [Source](https://doi.org/10.1093/oxrep/graf026) [Source](https://web.stanford.edu/~chadj/JonesTonetti_Automation.pdf)
+- The Bank of England calibrates risk aversion in its new model of the UK economy on her meta-analysis. [Source](https://www.bankofengland.co.uk/-/media/boe/files/macro-technical-paper/2026/a-uk-hank-model.pdf) [Source](https://meta-analysis.cz/impact/)
+- The US Environmental Protection Agency calibrates the intertemporal substitution parameter of SAGE, its regulatory model, on her cross-country meta-analysis. [Source](https://meta-analysis.cz/impact/) [Source](https://www.epa.gov/system/files/documents/2024-03/sage_model_documentation_2_1_1.pdf)
 - Her work on foreign direct investment is used by the World Bank, IMF, OECD, UNCTAD, WTO and Inter-American Development Bank. [Source](https://meta-analysis.cz/impact/)
-- Her work on daylight saving time is cited in every version of the Congressional Research Service report since 2018, by the European Parliamentary Research Service and the UK House of Commons Library. Spain also drew on it in the note it put to the Council of the European Union in 2025 on ending seasonal clock changes. [Source](https://meta-analysis.cz/impact/)
+- Her work on daylight saving time is cited in every version of the Congressional Research Service report since 2018 and by the European Parliamentary Research Service and the UK House of Commons Library. Spain also drew on it in its 2025 note to the Council of the European Union on ending seasonal clock changes. [Source](https://meta-analysis.cz/impact/)
 - Her work on gasoline demand, trade, carbon costs and water demand is cited in Science, PNAS and Nature Water. [Source](https://meta-analysis.cz/impact/)
-- Others build on her data: David Slichter and Nhan Tran use eleven of her datasets in a paper forthcoming in the Journal of Political Economy Microeconomics. [Source](https://meta-analysis.cz/impact/)
+- David Slichter and Nhan Tran use nine of her datasets in a paper forthcoming in the Journal of Political Economy Microeconomics. [Source](https://meta-analysis.cz/impact/)
 
 ## Open data
 
